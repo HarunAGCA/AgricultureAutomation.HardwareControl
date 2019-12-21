@@ -1,0 +1,12 @@
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.deps.json
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.pdb
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\bin\Debug\netcoreapp3.0\Agca.Core.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.pdb
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.csprojAssemblyReference.cache
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.AssemblyInfoInputs.cache
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.AssemblyInfo.cs
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.csproj.CopyComplete
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Entities\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Entities.pdb

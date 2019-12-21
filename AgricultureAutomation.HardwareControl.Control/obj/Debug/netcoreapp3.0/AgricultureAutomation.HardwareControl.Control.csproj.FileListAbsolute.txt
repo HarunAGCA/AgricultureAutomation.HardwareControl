@@ -1,0 +1,8 @@
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.deps.json
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.csprojAssemblyReference.cache
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.AssemblyInfoInputs.cache
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.AssemblyInfo.cs
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.pdb
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Control\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.pdb

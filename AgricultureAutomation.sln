@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgricultureAutomation.HardwareControl.DataAccess", "AgricultureAutomation.HardwareControl.DataAccess\AgricultureAutomation.HardwareControl.DataAccess.csproj", "{D04CD63B-33A7-4186-A4FC-62B9752AD4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgricultureAutomation.HardwareControl.Entities", "AgricultureAutomation.HardwareControl.Entities\AgricultureAutomation.HardwareControl.Entities.csproj", "{EE085434-AF96-4B7C-873C-F85240606A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgricultureAutomation.HardwareControl.Business", "AgricultureAutomation.HardwareControl.Business\AgricultureAutomation.HardwareControl.Business.csproj", "{A55BE03B-8381-40B2-8DCB-D9F5984B99E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgricultureAutomation.HardwareControl.WebAPI", "AgricultureAutomation.HardwareControl.WebAPI\AgricultureAutomation.HardwareControl.WebAPI.csproj", "{4332F48E-5F84-4C00-A38D-34CDF4859C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgricultureAutomation.HardwareControl.Control", "AgricultureAutomation.HardwareControl.Control\AgricultureAutomation.HardwareControl.Control.csproj", "{00ED8228-8FF1-419C-A600-9F1666C9203B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8B469B89-8762-4180-A2A1-AADC77C824E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04CD63B-33A7-4186-A4FC-62B9752AD4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04CD63B-33A7-4186-A4FC-62B9752AD4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04CD63B-33A7-4186-A4FC-62B9752AD4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04CD63B-33A7-4186-A4FC-62B9752AD4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE085434-AF96-4B7C-873C-F85240606A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE085434-AF96-4B7C-873C-F85240606A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE085434-AF96-4B7C-873C-F85240606A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE085434-AF96-4B7C-873C-F85240606A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55BE03B-8381-40B2-8DCB-D9F5984B99E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55BE03B-8381-40B2-8DCB-D9F5984B99E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55BE03B-8381-40B2-8DCB-D9F5984B99E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55BE03B-8381-40B2-8DCB-D9F5984B99E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4332F48E-5F84-4C00-A38D-34CDF4859C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4332F48E-5F84-4C00-A38D-34CDF4859C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4332F48E-5F84-4C00-A38D-34CDF4859C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4332F48E-5F84-4C00-A38D-34CDF4859C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00ED8228-8FF1-419C-A600-9F1666C9203B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00ED8228-8FF1-419C-A600-9F1666C9203B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00ED8228-8FF1-419C-A600-9F1666C9203B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00ED8228-8FF1-419C-A600-9F1666C9203B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B469B89-8762-4180-A2A1-AADC77C824E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B469B89-8762-4180-A2A1-AADC77C824E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B469B89-8762-4180-A2A1-AADC77C824E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B469B89-8762-4180-A2A1-AADC77C824E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECA6C36E-7971-4F17-92FB-025F87996D40}
+	EndGlobalSection
+EndGlobal

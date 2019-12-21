@@ -1,0 +1,13 @@
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.deps.json
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.pdb
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.DataAccess.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Control.pdb
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\bin\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.DataAccess.pdb
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.csprojAssemblyReference.cache
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.AssemblyInfoInputs.cache
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.AssemblyInfo.cs
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.csproj.CopyComplete
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.dll
+D:\PROJECTS\TarımOtomasyonu\AgricultureAutomation\AgricultureAutomation.HardwareControl.Business\obj\Debug\netcoreapp3.0\AgricultureAutomation.HardwareControl.Business.pdb
