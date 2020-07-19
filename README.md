@@ -1,6 +1,6 @@
 # AgricultureAutomation.HardwareControl
 
-This repository is a part of the Agriculture Automation project. This is API that acts as interface between hardware and main software.
+This repository is a part of the Agriculture Automation project. This is API that acts as interface between hardware and main software via Serial Port Communication.
 
 # Used Tools, Programming Languages, Architecture etc.
 
