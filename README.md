@@ -8,4 +8,5 @@ This repository is a part of the Agriculture Automation project. This is API tha
 - Entity Framework Core
 - MS SQL Server
 - C#
+- Serial Port Communication
 - Layered Architecture
